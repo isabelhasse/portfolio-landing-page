@@ -1,0 +1,8 @@
+.jumbotron h2 {
+  float: right;
+  margin-top: -10px;
+}
+
+li {
+  margin-bottom: 4px;
+}
