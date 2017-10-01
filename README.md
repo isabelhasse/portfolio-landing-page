@@ -10,7 +10,7 @@ _This is a landing page for my coding portfolio. It has links to all of my proje
 
 ## Setup Instructions
 
-* _Download this project with the command 'git clone https://github.com/isabelhasse/portfolio-landing-page'.
+* _Download this project with the command 'git clone https://github.com/isabelhasse/portfolio-landing-page'._
 * _Open index.html in your web browser._
 
 ### License
