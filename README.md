@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This is a landing page for my coding portfolio. It has links to all of my projects on github and screenshots of my 3 latest projects. It also has an about me section. You can visit the page at https://isabelhasse.github.io/portfolio-landing-page/.}_
+_This is a landing page for my coding portfolio. It has links to all of my projects on github and screenshots of my 3 latest projects. It also has an about me section. You can visit the page at https://isabelhasse.github.io/portfolio-landing-page/._
 
 ## Setup Instructions
 
@@ -15,6 +15,6 @@ _{This is a landing page for my coding portfolio. It has links to all of my proj
 
 ### License
 
-*{Liscensed under the MIT liscense.}*
+*Liscensed under the MIT liscense.*
 
-Copyright (c) 2017 **_{Isabel Hasse}_**
+Copyright (c) 2017 **_Isabel Hasse_**
